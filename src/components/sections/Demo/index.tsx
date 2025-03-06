@@ -2,7 +2,8 @@ import * as React from 'react';
 import MuiBox from '@mui/material/Box';
 import MuiTypography from '@mui/material/Typography';
 
-type Props = {
+export type Props = {
+    type: 'DemoSection';
     title: string;
     description: string;
 };
