@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Nueva página
+title: Otra Nueva página
 sections:
   - type: HeroSection
     title: An Empty Page
