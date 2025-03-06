@@ -12,6 +12,13 @@
             },
             {
                 "type": "Link",
+                "label": "Nueva página",
+                "url": "/nueva",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
                 "label": "About",
                 "url": "/about",
                 "underline": "hover"
