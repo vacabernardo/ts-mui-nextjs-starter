@@ -15,7 +15,7 @@
                 "label": "Nueva página",
                 "url": "/nueva",
                 "underline": "hover",
-                "color": "primary"
+                "color": "secondary"
             },
             {
                 "type": "Link",
