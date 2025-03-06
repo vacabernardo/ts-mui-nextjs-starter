@@ -208,7 +208,7 @@ sections:
         variant: outlined
         color: primary
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: Titulo grande
     subtitle: The section subtitle
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
