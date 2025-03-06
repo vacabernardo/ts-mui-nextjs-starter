@@ -2,5 +2,6 @@
     "type": "ThemeStyle",
     "mode": "light",
     "primaryColor": "#51b84d",
-    "secondaryColor": "#F65458"
+    "secondaryColor": "#F65458",
+    "thirdColor": "#F65458"
 }
