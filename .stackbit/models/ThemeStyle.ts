@@ -24,6 +24,11 @@ export const ThemeStyle: Model =  {
             type: 'color',
             name: 'secondaryColor',
             label: 'Secondary color'
+        },
+        {
+            type: 'color',
+            name: 'thirdColor',
+            label: 'Third color'
         }
     ]
 };
