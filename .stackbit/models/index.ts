@@ -2,6 +2,7 @@ import { Button} from './Button';
 import { Card } from './Card';
 import { CardsSection } from './CardsSection';
 import { Config } from './Config';
+import { DemoSection } from './DemoSection';
 import { Footer } from './Footer';
 import { Header } from './Header';
 import { HeroSection } from './HeroSection';
@@ -15,6 +16,7 @@ export const allModels = {
     Card, 
     CardsSection, 
     Config, 
+    DemoSection,
     Footer, 
     Header, 
     HeroSection, 

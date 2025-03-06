@@ -1,7 +1,7 @@
 export type Document = Config | Page;
 export type DocumentTypeNames = 'Config' | 'Page';
 
-export type Section = CardsSection | HeroSection;
+export type Section = CardsSection | HeroSection | DemoSection;
 
 /** Document types */
 export type Config = {
@@ -72,6 +72,12 @@ export type Image = {
     type: 'Image';
     url?: string;
     altText?: string;
+};
+
+export type DemoSection = {
+    type: 'DemoSection';
+    title: string;
+    description: string;
 };
 
 export type Link = {
