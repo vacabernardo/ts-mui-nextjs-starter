@@ -17,7 +17,7 @@ let theme = createTheme({
     },
     typography: {
         h1: {
-            fontWeight: 500
+            fontWeight: 100
         },
         h2: {
             fontWeight: 500
